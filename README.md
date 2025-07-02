@@ -1,2 +1,0 @@
-# Skillbridge
-skillbridge frontend, backend
